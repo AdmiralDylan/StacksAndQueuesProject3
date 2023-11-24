@@ -5,7 +5,7 @@ import interfaces.ListInterface;
 
 public class ArrayBasedList2<E> implements ListInterface<E> {
 
-	protected E[] list;               // array to hold this list’s elements
+	protected E[] list;               // array to hold this listï¿½s elements
 
 	protected int numElements = 0;    // number of elements in this list
 
